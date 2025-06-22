@@ -1,4 +1,4 @@
 # college_website
 This is a  study material  based college website.
 <br>
-Author:- Ganesh Kumar Mandal
+Author:- Ganesh Kumar Mandal("IIT MADRAS)
